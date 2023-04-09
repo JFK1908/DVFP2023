@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+plotly
+seaborn
+dash
+mplcursors
+ipywidgets
+scikit-learn
+scipy
